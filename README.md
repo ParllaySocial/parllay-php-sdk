@@ -1,7 +1,7 @@
-Parllay SDK for PHP v1.0
-===================
+### Parllay SDK for PHP v1.0
 
 This repository contains the open source PHP SDK that allows you to access Facebook Platform from your PHP app.
+
 ----
 
 Usage
@@ -24,4 +24,4 @@ $result = $parllay->api("/businesses");
 Request for testing
 -------------------
 
-Currently, The parllay app is only open to our partner, if you want to visit our platform data, please go to [Parllay][http://parllay.com] and leave your request.
+Currently, The parllay app is only open to our partner, if you want to visit our platform data, please go to [Parllay](http://parllay.com) and leave your request.

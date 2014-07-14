@@ -76,8 +76,8 @@ class Parllay {
 	 * Maps aliases to Parllay domains
 	 */
 	public static $API_DOMAIN_MAP = array(
-		'api' => 'https://api.parllay.com:8080/1.0/',
-		'api_ppe' => 'https://api-ppe.parllay.com:8080/1.0/'
+		'api' => 'https://api.parllay.com/1.0/',
+		'api_ppe' => 'https://api-ppe.parllay.com/1.0/'
 	);
 	
 	public static $HTTP_METHODS = array(
